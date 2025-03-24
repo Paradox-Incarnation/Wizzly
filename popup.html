@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Tutorial Companion</title>
+  <link href="popup.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Tutorial Companion</h1>
+      <div class="settings">
+        <label class="switch">
+          <input type="checkbox" id="voiceToggle">
+          <span class="slider"></span>
+        </label>
+        <span>Voice Assistant</span>
+      </div>
+    </div>
+    
+    <div class="chat-container">
+      <div id="chatMessages" class="chat-messages"></div>
+      <div class="input-container">
+        <input type="text" id="userInput" placeholder="Ask a question...">
+        <button id="sendButton">Send</button>
+      </div>
+    </div>
+
+    <div class="footer">
+      <button id="saveNotes">Save Notes to Google Docs</button>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
