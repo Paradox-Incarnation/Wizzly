@@ -1,4 +1,4 @@
-# YouTube Tutorial Companion
+# Wizzly : A YouTube Tutorial Companion
 
 A Chrome extension that enhances YouTube tutorials by providing real-time assistance, automatic transcript analysis, and smart note-taking capabilities.
 
@@ -112,15 +112,11 @@ youtube-tutorial-companion/
 - No data collection outside of necessary functionality
 - All processing happens locally when possible
 
-## License
-
-MIT License - see LICENSE file for details
-
 ## Support
 
 - GitHub Issues: [Report a bug](https://github.com/yourusername/youtube-tutorial-companion/issues)
-- Email: support@example.com
-- Twitter: [@tutorialcompanion](https://twitter.com/tutorialcompanion)
+- Email: paradoxincarnation@gmail.com
+- LinkedIn: [@piyushbaweja](https://www.linkedin.com/in/piyush-baweja-604459322/)
 
 ## Roadmap
 
